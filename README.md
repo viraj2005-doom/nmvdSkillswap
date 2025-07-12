@@ -1,5 +1,8 @@
 # # 🔄 Skill Swap Platform
 
+Team name:- CodeForce-141
+Email:- virajpsolanki33@gmail.com
+
 A mini application that enables users to list their skills and request others in return. The goal is to promote peer-to-peer learning by allowing skill-based exchanges.
 
 ---
